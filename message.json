@@ -1,34 +1,14 @@
 {
   "entries":[
     {
-      "template_type":"video",
-      "shadow":true,
-      "slides":[
-          {
-            "title":"Json function",
-            "subtitle":"called",
-            "video_url":"https://youtu.be/Z-HLGPEMS0g?t=7",
-            "buttons":[ 
-                {
-                  "type":"url",
-                  "url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-                  "webview_height":"new",
-                  "title":"Preview"
-                },
-                {
-                  "type":"url",
-                  "url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-                  "webview_height":"new",
-                  "title":"Preview"
-                }
-              ]
-          },
-          {
-            "title":"some title",
-            "subtitle":"some description",
-            "image_url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-          }
-      ]
-     }
+      "template_type":"video", // “image” | “audio” | “video”
+      "url":"https://www.youtube.com/watch?v=-JLewvWBkCw",
+      "button":{
+        "type":"url",
+        "url":"https://digital.makerobos.com",
+        "webview_height":"small",
+        "title":"Preview"
+      }
+    }
   ]
 }
