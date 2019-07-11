@@ -3,6 +3,36 @@
     {
       "template_type":"message",
       "message":"Hi, greetings from Makerobos from github" 
-    }
+    },
+    {
+      "template_type":"carousel",
+      "shadow":true,
+      "Slides":[
+          {
+            "title":"some title",
+            "subtitle":"some description",
+            "image_url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "Buttons":[ 
+                {
+                  "type":"url",
+                  "url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                  "webview_height":"new",
+                  "title":"Preview"
+                },
+                {
+                  "type":"url",
+                  "url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+                  "webview_height":"new",
+                  "title":"Preview"
+                }
+              ]
+          },
+          {
+            "title":"some title",
+            "subtitle":"some description",
+            "Image_url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
+      ]
+     }
   ]
 }
