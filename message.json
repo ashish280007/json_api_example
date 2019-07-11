@@ -1,10 +1,6 @@
 {
   "entries":[
     {
-      "template_type":"message",
-      "message":"Hi, greetings from Makerobos from github" 
-    },
-    {
       "template_type":"carousel",
       "shadow":true,
       "slides":[
