@@ -1,13 +1,13 @@
 {
   "entries":[
     {
-      "template_type":"carousel",
+      "template_type":"video",
       "shadow":true,
       "slides":[
           {
             "title":"Json function",
             "subtitle":"called",
-            "image_url":"https://youtu.be/Z-HLGPEMS0g?t=7",
+            "video_url":"https://youtu.be/Z-HLGPEMS0g?t=7",
             "buttons":[ 
                 {
                   "type":"url",
