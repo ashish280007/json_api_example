@@ -1,7 +1,7 @@
 {
   "entries":[
     {
-      "template_type":"video", // “image” | “audio” | “video”
+      "template_type":"video", // “video”
       "url":"https://www.youtube.com/watch?v=-JLewvWBkCw",
       "button":{
         "type":"url",
