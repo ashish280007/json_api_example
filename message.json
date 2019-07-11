@@ -7,12 +7,12 @@
     {
       "template_type":"carousel",
       "shadow":true,
-      "Slides":[
+      "slides":[
           {
             "title":"some title",
             "subtitle":"some description",
             "image_url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "Buttons":[ 
+            "buttons":[ 
                 {
                   "type":"url",
                   "url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -30,7 +30,7 @@
           {
             "title":"some title",
             "subtitle":"some description",
-            "Image_url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            "image_url":"https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
           }
       ]
      }
